@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Dandy Xu's Hexo
-subtitle:
-description:
+title: Dandy Xu
+subtitle: Cast a cold eye, on Life on Death, Horseman, Passby!
+description: Dandy Xu's Personal Blog hosted on Github Page
 author: Dandy Xu
 language: en
-timezone:
+timezone: Europe/Dublin
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
