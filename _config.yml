@@ -71,5 +71,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/dandyxu/dandyxu.github.io
+  repo: git@github.com:dandyxu/dandyxu.github.io.git
   branch: master
