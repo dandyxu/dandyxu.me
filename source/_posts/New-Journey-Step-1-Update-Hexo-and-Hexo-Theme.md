@@ -12,6 +12,8 @@ However, as I wrote in the title, it's a new journey just get started since I de
 
 So, firstly I'm going to do is to update the hexo framework.
 
+<!--more-->
+
 Here is the procedure which I found:
 
  1. Change into blog directory with package.json file
