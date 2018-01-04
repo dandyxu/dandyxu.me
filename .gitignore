@@ -7,3 +7,4 @@ node_modules/
 .npmignore
 public/
 .idea
+package-lock.json
