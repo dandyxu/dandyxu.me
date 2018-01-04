@@ -1,6 +1,5 @@
 _Store 
 Thumbs.db
-db.json  
 *.log
 .deploy*/
 node_modules/
@@ -8,3 +7,4 @@ node_modules/
 public/
 .idea
 package-lock.json
+db.json
