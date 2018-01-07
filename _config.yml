@@ -74,3 +74,11 @@ deploy:
   type: git
   repo: git@github.com:dandyxu/dandyxu.github.io.git
   branch: master
+  
+# Header
+## Menu setting for Edinburgh theme
+menu:
+  About: /about
+  Contact: /contact
+  LinkedIn: https://www.linkedin.com
+  Facebook: https://www.facebook.com
