@@ -1,3 +1,6 @@
 [submodule "themes/next"]
 	path = themes/next
 	url = git@github.com:dandyxu/hexo-theme-next.git
+[submodule "themes/edinburgh"]
+	path = themes/edinburgh
+	url = git@github.com:dandyxu/hexo-theme-edinburgh.git
