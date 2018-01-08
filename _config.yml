@@ -65,8 +65,8 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 #theme: landscape
 #theme: bootstrap-blog
-#theme: next
-theme: edinburgh
+theme: next
+#theme: edinburgh
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
