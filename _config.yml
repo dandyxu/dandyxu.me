@@ -82,3 +82,12 @@ menu:
   Contact: /contact
   LinkedIn: https://www.linkedin.com
   Facebook: https://www.facebook.com
+
+# Next Theme Count Time Setting
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: false
+  total_time: true
+  AWL: 5
+  WPM: 200
