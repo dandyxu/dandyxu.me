@@ -77,17 +77,17 @@ deploy:
   
 # Header
 ## Menu setting for Edinburgh theme
-menu:
-  About: /about
-  Contact: /contact
-  LinkedIn: https://www.linkedin.com
-  Facebook: https://www.facebook.com
+# menu:
+#   About: /about
+#   Contact: /contact
+#   LinkedIn: https://www.linkedin.com
+#   Facebook: https://www.facebook.com
 
 # Next Theme Count Time Setting
 symbols_count_time:
   symbols: true
   time: true
-  total_symbols: false
+  total_symbols: true
   total_time: true
-  AWL: 5
-  WPM: 200
+  awl: 5
+  wpm: 200
