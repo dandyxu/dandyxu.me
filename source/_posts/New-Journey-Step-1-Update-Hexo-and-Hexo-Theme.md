@@ -1,7 +1,9 @@
 ---
 title: 'New Journey Step 1: Update Hexo and Hexo Theme'
 date: 2017-06-02 16:21:18
-tags: hexo, hexo theme
+tags: 
+- hexo 
+- hexo theme
 ---
 
 Hello, everybody.
