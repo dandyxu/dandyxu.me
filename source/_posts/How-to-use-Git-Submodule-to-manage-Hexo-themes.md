@@ -14,7 +14,7 @@ In the last blog [How to update Hexo and Hexo theme properly](https://dandyxu.me
 
 The image below you will probably see:
 
-![Git Submodules](../images/Git_Submodules.png)
+![Git Submodules](https://s3-eu-west-1.amazonaws.com/dandyxu.me.assets/images/Git_Submodules.png)
 
 As you can see in the screenshot, both `edinburgh` and `next` are shown differently with `landscape`. If in this case, you pull the whole repo to another laptop, you will surprisely find these two themes are autually empty!
 
