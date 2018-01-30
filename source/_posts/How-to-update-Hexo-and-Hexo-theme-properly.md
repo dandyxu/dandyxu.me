@@ -1,7 +1,11 @@
 ---
 title: How to update Hexo and Hexo theme properly
 date: 2018-01-23 21:20:53
+categories:
+- Hexo
 tags:
+- hexo
+- hexo theme
 ---
 In the previous blog, I introduced how to update Hexo and Hexo theme - `NexT`. However, since Hexo 3.0, it's recommended to install `hexo-cli`, which is command line interface for hexo.
 

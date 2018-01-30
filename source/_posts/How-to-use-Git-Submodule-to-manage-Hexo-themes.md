@@ -1,12 +1,14 @@
 ---
 title: How to use Git Submodule to manage Hexo themes
 date: 2018-01-24 23:37:03
+categories:
+- Git
 tags: 
 - hexo
-- Git
-- Git Submodule 
+- git
+- git submodule 
 ---
-In the last blog [How to update Hexo and Hexo theme properly](https://dandyxu.me/2018/01/23/How-to-update-Hexo-and-Hexo-theme-properly/ "How to update Hexo and Hexo theme properly"), I manage both Hexo blog and Hexo themes as Git Repositories. However, I met a problem when I push everything to remote repo and tried to pull to another PC/Mac.
+In the last blog [How to update Hexo and Hexo theme properly](https://dandyxu.me/Hexo/How-to-update-Hexo-and-Hexo-theme-properly/ "How to update Hexo and Hexo theme properly"), I manage both Hexo blog and Hexo themes as Git Repositories. However, I met a problem when I push everything to remote repo and tried to pull to another PC/Mac.
 
 ### Where is my theme?
 

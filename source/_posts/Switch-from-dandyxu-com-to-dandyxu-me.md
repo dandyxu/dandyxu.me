@@ -1,7 +1,10 @@
 ---
 title: Switch from dandyxu.com to dandyxu.me
 date: 2018-01-23 00:31:22
-tags: hexo
+categories:
+- Hexo
+tags: 
+- hexo
 ---
 
 Hello, everyone.
