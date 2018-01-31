@@ -7,6 +7,7 @@ tags:
 - GOT
 - Weekend Driving
 ---
+
 ### In the beginning
 
 This article is probably my first travelling blog which I wished to write something about travelling for a long time.
