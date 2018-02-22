@@ -35,19 +35,19 @@ Link: https://gymgo.ie
 
 Description: GymGo.ie is Ireland's Top Platform for Gyms and Personal Trainers.
 
-#### CyberBuddy.ie (Prototype)
+#### CyberBuddy.ie (Prototype) (Nov.2017)
 
 Link: http://cyberbuddy.ie
-
-
----
-
-## Projects Currently working on
 
 #### PerfectHealth.ie (Jan.2018 - Feb.2018)
 
 Link: http://www.perfecthealth.ie
 
+Description: 
+
+---
+
+## Projects Currently working on
 
 
 ---
