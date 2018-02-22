@@ -49,6 +49,13 @@ Description:
 
 ## Projects Currently working on
 
+#### Limerick International Student Consultancy (LISC.ie)
+
+Link: Not Available
+
+#### RentSmart.ie
+
+Link: Not Available
 
 ---
 
