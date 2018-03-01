@@ -7,7 +7,7 @@ date: 2018-01-10 00:54:34
 
 Name: Wenqian Xu
 
-English Name: Dandy
+English Name: Dandy Xu
 
 Languages: HTML5, CSS3, JavaScript, jQuery, Sass, PHP, Python, Java, Swift, Objective-C, C#, C
 
@@ -61,11 +61,11 @@ Link: Not Available
 
 ## Projects Interested
 
-#### React.JS
+#### #React.JS
 
-#### React Native
+#### #React Native
 
-#### ARKit in iOS
+#### #ARKit in iOS
 
 --- 
 
