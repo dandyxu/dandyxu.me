@@ -1,4 +1,7 @@
-# Dandy Xu's Blog | Dandyxu.me
-My first Hexo site hosted in Github Page
+# Dandy Xu's Pit | Dandyxu.me
 
-I'm trying to make this blog as my personal portfolio website
+My Personal Website hosted in Github Page
+
+## Useful Shortcuts
+
+Resume: [Click to check]("http://dandyxu.me/resume", "Wenqian Xu (Dandy)")
