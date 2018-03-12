@@ -43,11 +43,17 @@ Link: http://cyberbuddy.ie
 
 Link: http://www.perfecthealth.ie
 
-Description: 
+Description: Small Business Website with WooCommerce and Event Calendar
 
 ---
 
 ## Projects Currently working on
+
+#### WordPress Plugin: Advanced Display IDs
+
+Description: Display Post IDs for WP developers, ready to submit to WordPress Plugin Directory
+
+Link: Not Available Yet
 
 #### Limerick International Student Consultancy (LISC.ie)
 
