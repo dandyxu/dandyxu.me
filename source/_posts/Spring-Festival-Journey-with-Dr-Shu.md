@@ -40,11 +40,57 @@ Another 152 steps up, you will reach the top of the cathedral - "Goldern Gallery
 
 #### Personal Rate: 5 Star, highly recommended.
 
-# Day 2: Still in London
+# Day 2: East of London
 
 ## ArcelorMittal Orbit & The Slide
 
+I never went to the east part of London, especailly the CBD along the River Thames. In the early morning, we firstly took the underground to the London Stadium. It was the main area of London Olympic Game back to 2012. Over there, there is a tall sculpture built for the 2012 Olympic Games offering panoramic views & a looping tunnel slide.
+
+East of London on the map:
+![East of London](East-London.png)
+
+ArcelorMittal Orbit & Slide
+![Orbit](Orbit.jpg)
+
+![Slide](Slide-Orbit.jpg)
+
+![Dr.Shu](Dr.Shu.jpg)
+
+I brought the GoPro camera and took a very nice video about the Orbit and the Slide. Unfortunately, I have to find a way to insert a video into the hexo blog. Will update the video in the later blog.
+
 ## Greenwich - ROG
+
+After exploring the Olympic Stadium and ArcelorMittal Orbit, we took the DLR train towards the south, across the river and arrived in Grennwich. The Greenwich is quite famous because of astronomical observatory and Prime Meridian. 
+
+ROG - Royal Observatory Greenwich
+![ROG](ROG.jpg)
+
+The Prime Peridian
+![Prime Peridian](prime-meridian.jpg)
+
+Telescope
+![telescope](telescope.jpg)
+
+The telescope there reminded me the trip to the Birr Castle in Co. Offaly, Ireland. Inside of Birr Castle, there is a much bigger one over there.
+
+After ROG, we went to National Maritime Museum, which just besides the foot of ROG. Very interesting museum!
+
+A ship in bottle:
+![Ship in bottle](ship-in-bottle.jpg)
+
+The different heads of ships:
+![Head of Ship](ship-head.jpg)
+
+In the evening, we went back to the central of London and here are some beautiful photos there:
+
+The tower of London:
+![Tower of London](tower-of-london.jpg)
+
+The tower castle:
+![Tower castle](tower-castle.jpg)
+
+London evening:
+![London evening](london-evening.jpg)
 
 # Day 3: Watford Junction
 
