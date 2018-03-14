@@ -5,10 +5,9 @@ categories:
 - Travelling
 tags:
 - London
-- Bath
-- Bristol
-- Cornwall
-- Birmingham
+- St. Paul's Cathedral
+- Orbit
+- Greenwich
 - UK
 ---
 
@@ -92,6 +91,6 @@ The tower castle:
 London evening:
 ![London evening](london-evening.jpg)
 
-# Day 3: Watford Junction
+Oringinally I planned to finish all 7 days within one blog. However, I realize it's too long and sometimes make me very tired of continuing to extending the same blog. So I decide to create several new blogs describing our trip in the rest of days. Believe me, we experienced loads of things, including missing the flight, nearly 3 hours' congestion in UK motorway etc. I will aslo try to enable the comment feature of the hexo so leave me comments below!
 
-## Warner Bros. Studio - The Making of Harry Potter
+See you in the next blogs!
