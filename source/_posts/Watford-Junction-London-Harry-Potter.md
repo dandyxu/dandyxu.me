@@ -2,7 +2,13 @@
 title: Watford Junction London - Harry Potter!
 date: 2018-03-16 22:45:00
 categories:
+- Travelling
 tags:
+- London
+- Harry Potter
+- Watford Junction
+- Oxford Street
+- UK
 ---
 
 # Day 3: The Making of Harry Potter - Warner Bros. Studio Tour
