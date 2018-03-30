@@ -47,15 +47,15 @@ Link: http://www.perfecthealth.ie
 
 Description: Small Business Website with WooCommerce and Event Calendar
 
----
-
-## Projects Currently working on
-
-#### WordPress Plugin: Advanced Display IDs
+#### WordPress Plugin: Advanced Display IDs (March.2018)
 
 Description: Display Post IDs for WP developers, ready to submit to WordPress Plugin Directory
 
-Link: Not Available Yet
+Link: https://github.com/dandyxu/Advanced-Display-IDs
+
+---
+
+## Projects Currently working on
 
 #### Limerick International Student Consultancy (LISC.ie)
 
