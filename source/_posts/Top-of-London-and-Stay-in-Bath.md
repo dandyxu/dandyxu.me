@@ -55,7 +55,7 @@ After the Shard, we took the tube and back to the London Eye. Here are some nice
 This angle is probably the most popular one for the photo of London Eye, thanks to GoPro!
 ![London Eye](london_eye.jpg)
 
-This one is taken by my iPhone SE:
+This one is taken by my phone:
 ![London Eye](london_eye_2.jpg)
 
 At that day, the Big Ben was under construction so it was covered by scaffold and hangings. If you are the first time to visit London, unfortunately, bad luck...
