@@ -53,8 +53,6 @@ ArcelorMittal Orbit & Slide
 
 ![Slide](Slide-Orbit.jpg)
 
-![Dr.Shu](Dr.Shu.jpg)
-
 I brought the GoPro camera and took a very nice video about the Orbit and the Slide. Unfortunately, I have to find a way to insert a video into the hexo blog. Will update the video in the later blog.
 
 ## Greenwich - ROG

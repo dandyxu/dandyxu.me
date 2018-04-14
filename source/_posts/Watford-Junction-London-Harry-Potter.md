@@ -50,9 +50,6 @@ All Wands:
 Dumbledore Office:
 ![Dumbledore office](dumbledore-office.jpg)
 
-My Girl:
-![My Girl](my-girl.jpg)
-
 Gryffindor Common Room:
 ![Gryffindor Common Room](gryffindor-common-room.jpg)
 
@@ -82,9 +79,6 @@ Hogwarts Large Model:
 
 Hogwarts Model in the Dark:
 ![Hogwarts Model in the Dark](hogwarts-model-dark.jpg)
-
-My Girl wearing Sorting Hat:
-![My Girl wearning Sorting Hat](my-girl-wearing-sorting-hat.jpg)
 
 Entrance:
 ![Entrance](entrance.jpg)

@@ -24,9 +24,6 @@ The Shard is located very close to London bridge and it is required pre-booked t
 Closer:
 ![The Shard 2 Closer](shard_2_closer.jpg)
 
-Yes, we love making coin:
-![The Shard Coin](shard_coin.jpg)
-
 The View of the Shard:
 ![The View of the Shard](the_view_of_shard.jpg)
 
@@ -41,9 +38,6 @@ The Whole Pig:
 
 Melted Cheese Burger:
 ![Melted Cheese Burger](melted_burger.jpg)
-
-Fresh Mussles:
-![Fresh Mussles](fresh_mussles.jpg)
 
 Different Mushrooms:
 ![Mushrooms](mushrooms.jpg)
