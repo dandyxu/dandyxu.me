@@ -7,10 +7,6 @@ comments: false
 
 ## Summary
 
-Name: Wenqian Xu
-
-English Name: Dandy Xu
-
 Languages: HTML5, CSS3, JavaScript, jQuery, Sass, PHP, Python, Java, Swift, Objective-C, C#, C
 
 Interested Areas: Web Development, WordPress, MVC Framework, Front-end Framework, ReactJS, React Native, REST API, DevOps, Cloud Computing, Linux
@@ -19,13 +15,13 @@ Interested Areas: Web Development, WordPress, MVC Framework, Front-end Framework
 
 ## Projects Completed
 
-#### CyberSmarties.com (Nov.2015 - Present)
+#### CyberSmarties.com (Nov.2015 - July.2018)
 
 Link: https://www.cybersmarties.com
 
 Description: Cybersmarties.com is the First Safe Educational Social Network for Primary and Special Needs School Kids to deal with cyber-bullying and mental health issues.
 
-#### CreaghCastlePublishing.com (Jan.2016 - Present)
+#### CreaghCastlePublishing.com (Jan.2016 - July.2018)
 
 Link: http://www.creaghcastlepublishing.com
 
@@ -55,29 +51,23 @@ Link: https://github.com/dandyxu/Advanced-Display-IDs
 
 ---
 
-## Projects Currently working on
+## Currently working on
 
-#### Limerick International Student Consultancy (LISC.ie)
-
-Link: Not Available
-
-#### RentSmart.ie
-
-Link: Not Available
+### AWS Certified Solution Architect Exam
 
 ---
 
-## Projects Interested
+## Interested
+
+#### #ARKit in iOS
 
 #### #React.JS
 
 #### #React Native
 
-#### #ARKit in iOS
+---
 
---- 
-
-## Research Projects
+## Research
 
 #### Using Metric Thresholds for Software Bug Prediction (Feb.2015 - Aug.2015)
 
